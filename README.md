@@ -15,6 +15,10 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+### Start MongoDB
+
+To start MongoDB, run mongod.exe from the Command Prompt navigate to your MongoDB Bin folder and run `mongod` command.
+
 ### Run Backend
 
 Run `npm install`
